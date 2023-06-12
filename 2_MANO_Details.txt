@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 2
+Name: MANO
+mobileNumber: fgh
+Nationality: dfdg
+Gender: Male
+Email: ghj
+Address: ghtyj
+Aadhar number: ghj

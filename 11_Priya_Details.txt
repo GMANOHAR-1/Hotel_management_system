@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 11
+Name: Priya
+mobileNumber: 456789765
+Nationality: Indian
+Gender: Female
+Email: priya@gmail.com
+Address: Mumbai
+Aadhar number: 4567898

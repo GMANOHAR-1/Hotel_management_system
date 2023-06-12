@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 5
+Name: PavanTeja
+mobileNumber: 867874763
+Nationality: India
+Gender: Male
+Email: pavan@gmail.com
+Address: Sricity
+Aadhar number: 5436354754

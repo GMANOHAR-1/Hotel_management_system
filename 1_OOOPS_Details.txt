@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: OOOPS
+mobileNumber: 6754
+Nationality: india
+Gender: Male
+Email: 6543
+Address: fgtrg
+Aadhar number: 234

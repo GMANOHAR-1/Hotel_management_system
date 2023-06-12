@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 8
+Name: abcd
+mobileNumber: 987656
+Nationality: Indian
+Gender: Male
+Email: hshss@g
+Address: ased
+Aadhar number: 1234

@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 4
+Name: pranith
+mobileNumber: fgh
+Nationality: sdfg
+Gender: Male
+Email: hjyht
+Address: dfgh
+Aadhar number: 134

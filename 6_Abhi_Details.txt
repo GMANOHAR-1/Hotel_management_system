@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 6
+Name: Abhi
+mobileNumber: 87548745
+Nationality: indian
+Gender: male
+Email: abhi@gmail.com
+Address: sricity
+Aadhar number: 785467

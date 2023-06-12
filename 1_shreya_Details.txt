@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: shreya
+mobileNumber: 987656
+Nationality: UGANDA
+Gender: Female
+Email: shreyan_lover@gmail.com
+Address: uyt
+Aadhar number: 8767

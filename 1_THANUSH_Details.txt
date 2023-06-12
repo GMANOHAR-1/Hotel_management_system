@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: Thanush
+mobileNumber: 9876542456
+Nationality: India
+Gender: Male
+Email: thanush@gmail.com
+Address: Sricity
+Aadhar number: 13325634654

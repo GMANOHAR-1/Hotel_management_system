@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 7
+Name: thanush
+mobileNumber: 2345678910
+Nationality: indian
+Gender: male
+Email: thanush@gmail.com
+Address: vijayawada
+Aadhar number: 34567856789

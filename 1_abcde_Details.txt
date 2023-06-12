@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: abcde
+mobileNumber: 9767
+Nationality: Indian
+Gender: Male
+Email: fr
+Address: rf
+Aadhar number: rff

@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: HEMANTH
+mobileNumber: 9988776655
+Nationality: INDIAN
+Gender: MALE
+Email: HEMANTH@GMAIL.COM
+Address: SRICITY
+Aadhar number: 67890856789

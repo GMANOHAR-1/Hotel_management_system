@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 9
+Name: Ashok
+mobileNumber: 4567890331
+Nationality: indian
+Gender: male
+Email: ashok@gmail.com
+Address: Kerala
+Aadhar number: 3456789

@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 2
+Name: SUHAS 
+mobileNumber: 98765
+Nationality: Uganda
+Gender: Female
+Email: wsedr
+Address: Kampala
+Aadhar number: 654567

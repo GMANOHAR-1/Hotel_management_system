@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: dv
+mobileNumber: dsxc
+Nationality: vgh
+Gender: dvb
+Email: dfv
+Address: dcfv
+Aadhar number: cr

@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 10
+Name: ac
+mobileNumber: 13
+Nationality: 123
+Gender: Male
+Email: 321
+Address: a
+Aadhar number: 3432

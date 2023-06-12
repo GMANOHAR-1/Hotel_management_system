@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 3
+Name: eshwar
+mobileNumber: 876543
+Nationality: Uganda
+Gender: Female
+Email: dfg
+Address: kampala
+Aadhar number: 76545

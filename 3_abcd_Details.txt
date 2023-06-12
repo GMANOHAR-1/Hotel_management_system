@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 3
+Name: abcd
+mobileNumber: 54
+Nationality: ind
+Gender: male
+Email: 33
+Address: 543
+Aadhar number: 654

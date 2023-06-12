@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: PAVAN TEJA
+mobileNumber: 7654
+Nationality: Uganda
+Gender: Male
+Email: 5gh
+Address: kampala
+Aadhar number: 543

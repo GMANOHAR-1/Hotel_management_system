@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 5
+Name: sdfghjm
+mobileNumber: 8765434567
+Nationality: india
+Gender: male
+Email: ertyh
+Address: dfghgfd
+Aadhar number: 8765432234567

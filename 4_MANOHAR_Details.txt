@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 4
+Name: MANOHAR
+mobileNumber: 9618293860
+Nationality: INDIAN
+Gender: MALE
+Email: mano@gamil.com
+Address: AP
+Aadhar number: 7894895634

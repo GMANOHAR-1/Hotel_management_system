@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: tha
+mobileNumber: 976
+Nationality: in
+Gender: m
+Email: @gm.c
+Address: hffdes
+Aadhar number: 13

@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 2
+Name: Manohar
+mobileNumber: 9767672357
+Nationality: India
+Gender: Male
+Email: manohar@gmail.com
+Address: Sricity
+Aadhar number: 13243536465

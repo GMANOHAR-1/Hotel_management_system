@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 5
+Name: Pavan Teja
+mobileNumber: 876
+Nationality: Ind
+Gender: Male
+Email: sd
+Address: fg
+Aadhar number: 53

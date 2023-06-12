@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 1
+Name: shreyan
+mobileNumber: 9876544322
+Nationality: uganda
+Gender: male
+Email: shre2gmail.com
+Address: 9876548768767
+Aadhar number: 876543456

@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 4
+Name: Shreyan
+mobileNumber: 9765464573
+Nationality: India
+Gender: Male
+Email: shreyan@gmail.com
+Address: Sricity
+Aadhar number: 5346547564

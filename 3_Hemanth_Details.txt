@@ -1,0 +1,10 @@
+Hotel Customer Details
+
+Customer Id: 3
+Name: Hemanth
+mobileNumber: 989797324
+Nationality: India
+Gender: Male
+Email: hemanth@gmail.com
+Address: Sricity
+Aadhar number: 45364654756
