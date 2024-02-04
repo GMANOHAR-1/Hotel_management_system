@@ -49,6 +49,7 @@ Reporting: Generate reports on room occupancy, revenue, guest statistics, and ot
 
 Contributing
 Contributions to the project are welcome! If you want to contribute, please follow these steps:
+<img width="809" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/cf31c8a7-7f9b-43f4-9d08-5cf23e22cbf5">
 
 Fork the repository to your GitHub account.
 
