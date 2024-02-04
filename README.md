@@ -1,5 +1,6 @@
 Hotel Management System
 This is a Java-based hotel management system with a user interface built using JavaFX and Java Swing. The application allows hotel staff to efficiently manage various aspects of hotel operations, such as room reservations, guest information, billing, and more.
+<img width="954" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/a276f669-0a8d-42c1-bf27-4a462e04a62a">
 
 Features
 Room Management: Add, update, and remove rooms with their respective details, such as room number, type, availability, and pricing.
