@@ -26,17 +26,26 @@ Build the project and run the main application file (Main.java or App.java) to l
 Usage
 Upon launching the application, you will be presented with the main user interface. Use the various menus, buttons, and forms to navigate and perform the following tasks:
 
+<img width="885" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/33de3450-87e8-4457-ac87-3ae624038fcf">
+
 Room Management: Add, update, or remove rooms. Specify room details such as room number, type, availability, and pricing.
+<img width="947" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/264c94f2-623b-438c-b585-39bf99ae5e1e">
 
 Reservation Management: Create new reservations, check room availability for specific dates, and manage reservation details.
 
 Guest Management: Add and update guest information, including personal details, contact information, and preferences.
 
 Billing: Generate bills for guest stays, including room charges, additional services, and taxes. Manage bill records and payment details.
+<img width="693" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/9fcd8faa-2b02-45c8-9802-defe7cfa560a">
 
 Check-in and Check-out: Record guest check-in and check-out times, update room availability accordingly.
+<img width="959" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/3357b911-a274-4687-96f3-98faa5a1280c">
+<img width="953" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/0883f4bf-1a52-462e-994c-acb078f7574f">
 
 Reporting: Generate reports on room occupancy, revenue, guest statistics, and other relevant metrics.
+<img width="702" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/0b595176-0228-4966-a556-6d107278d292">
+<img width="922" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/fb20041a-73b0-49d2-92a5-f4cade3770ed">
+<img width="861" alt="image" src="https://github.com/GMANOHAR-1/Hotel_management_system/assets/122255843/2dac65df-ae0b-49f7-865e-d3fd972e1d1e">
 
 Contributing
 Contributions to the project are welcome! If you want to contribute, please follow these steps:
